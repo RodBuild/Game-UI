@@ -68,7 +68,7 @@ show_frame(LoginPage)
 #  VARIABLES  #
 #-------------#
 #database config
-databaseConfig = dc.getConfig() 
+databaseConfig = dc.getConfig()
 #initialize database
 firebase = pyrebase.initialize_app(databaseConfig)
 #firebase auth reference
