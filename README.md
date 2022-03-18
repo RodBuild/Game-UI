@@ -3,6 +3,7 @@ This project is about using Tkinter and Pygame to create a launcher where the us
 
 
 [Part I, Software Demo Video](https://youtu.be/LaQuuIpzWno)
+
 [Part II, Software Demo Video](https://youtu.be/thisP748tBo)
 
 # Development Environment
